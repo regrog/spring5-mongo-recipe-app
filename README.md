@@ -1,5 +1,4 @@
-https://circleci.com/gh/regrog/spring5-mongo-recipe-app.svg?style=svg
-
+[![CircleCI](https://circleci.com/gh/regrog/spring5-mongo-recipe-app.svg?style=svg)](https://circleci.com/gh/regrog/spring5-mongo-recipe-app)
 # spring5-mongo-recipe-app
 Recipe Application Using MongoDB
 
