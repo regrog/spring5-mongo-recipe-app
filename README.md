@@ -1,3 +1,5 @@
+https://circleci.com/gh/regrog/spring5-mongo-recipe-app.svg?style=svg
+
 # spring5-mongo-recipe-app
 Recipe Application Using MongoDB
 
